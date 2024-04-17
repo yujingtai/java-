@@ -1,0 +1,10 @@
+package com.hspedu.override_;
+
+public class Override01 {
+    //首先要写主方法！！！
+    public static void main(String[] args) {
+        Dog dog = new Dog();
+        dog.cry();
+    }
+
+}
